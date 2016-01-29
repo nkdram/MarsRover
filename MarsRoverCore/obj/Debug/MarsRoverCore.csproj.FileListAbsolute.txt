@@ -1,0 +1,5 @@
+F:\MarsRover\MarsRoverInternet\MarsRover\MarsRoverCore\bin\Debug\MarsRoverCore.exe.config
+F:\MarsRover\MarsRoverInternet\MarsRover\MarsRoverCore\bin\Debug\MarsRoverCore.exe
+F:\MarsRover\MarsRoverInternet\MarsRover\MarsRoverCore\bin\Debug\MarsRoverCore.pdb
+F:\MarsRover\MarsRoverInternet\MarsRover\MarsRoverCore\obj\Debug\MarsRoverCore.exe
+F:\MarsRover\MarsRoverInternet\MarsRover\MarsRoverCore\obj\Debug\MarsRoverCore.pdb
